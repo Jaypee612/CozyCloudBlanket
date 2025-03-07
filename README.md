@@ -8,8 +8,8 @@ The primary purpose of the Cozy Cloud Blanket project is to create an e-commerce
 
  Goals:  
 - Provide affordable yet high-quality blankets for customers  
-- Enable a user-friendly online shopping experience  
-- Ensure security of user data and transactions  
+- Enable a user-friendly online shopping experience across multiple browsers 
+- Ensure security of user data and transaction information which include PII and PCI records    
 
 ## Features  
 - Product Catalog: Browse a wide selection of blankets  
@@ -20,7 +20,7 @@ The primary purpose of the Cozy Cloud Blanket project is to create an e-commerce
 
 ## Tech Stack  
 - Languages:  
-  - C# (65.1%)  
+  - C#(.net) (65.1%)  
   - HTML (31.5%)  
   - CSS (2.9%)  
   - JavaScript (0.5%)  
